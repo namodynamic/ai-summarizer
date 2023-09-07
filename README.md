@@ -2,7 +2,9 @@
 An open-source article summarizer that transforms lengthy articles into clear and concise summaries
 
 [See live](https://ai-sumarize.netlify.app)
-![alt text](https://github.com/namodynamic/ai-summarizer/assets/126875351/ac1dfbc1-198d-44fb-ae3d-375b4d8b2747)
+
+![image](https://github.com/namodynamic/ai-summarizer/assets/126875351/ed7361b7-617d-43e0-a88a-c0138094ee92)
+
 
 
 ## React + Vite
